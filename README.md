@@ -5,6 +5,7 @@ A repository to contain supplemental materials for the publication:
 Aurélie Chambouvet, David J. Gower, Miloslav Jirku, Michael J. Yabsley, Andrew K. Davis, Guy Leonard, Finlay Maguire, Thomas Doherty-Bone, Gabriela Bittencourt, Mark Wilkinson, Thomas A. Richards
 __Cryptic infection of a broad taxonomic and geographic diversity of tadpoles by Perkinsea protists__ _in review_
 
+[![DOI](https://zenodo.org/badge/6065/fmaguire/Chambouvet_et_al_2014_supplementals.png)](http://dx.doi.org/10.5281/zenodo.12569)
 
 Contents:
 
